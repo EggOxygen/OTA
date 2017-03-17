@@ -1,0 +1,14 @@
+[
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "latest" : "true",
+    "tag_name": "0310 - 0325",
+    "name": "test.zip",
+    "release_date": "2016-03-17T20:16:02Z",
+    "browser_download_url": "https://raw.githubusercontent.com/EggOxygen/OTA/master/test.zip",
+    "body": "Type : OTA\n1.更新支持OTA\n2.更新Su",
+    "version" : "20170317"
+  },
+
+]
