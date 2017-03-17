@@ -8,8 +8,19 @@
     "name": "test.zip",
     "release_date": "2016-12-20T20:16:02Z",
     "browser_download_url": "https://raw.githubusercontent.com/EggOxygen/OTA/master/test.zip",
-    "body": "1.更新支持OTA\n2.更新Su",
+    "body": "This is my change log",
     "version" : "20161230"
   },
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "tag_name": "Build 2 Name",
+    "id": 2,
+    "name": "test.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://raw.githubusercontent.com/EggOxygen/OTA/master/test.zip",
+    "body": "This is my change log",
+    "version" : "20161220"
+  }
 
 ]
