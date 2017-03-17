@@ -1,0 +1,14 @@
+[
+  {
+    "prerelease": "false",
+    "stable": "true",
+    "latest" : "true",
+    "tag_name": "Build Name",
+    "name": "test.zip",
+    "release_date": "2016-12-20T20:16:02Z",
+    "browser_download_url": "https://raw.githubusercontent.com/EggOxygen/OTA/master/test.zip",
+    "body": "中文测试",
+    "version" : "20161230"
+  }
+
+]
